@@ -10,16 +10,20 @@ public class VentanaCalculadora {
     private JButton button6;
     private JButton ACButton;
     private JButton button8;
-    private JButton button4;
-    private JButton button9;
-    private JButton button10;
-    private JButton button11;
-    private JButton button12;
-    private JButton button13;
-    private JButton button14;
-    private JButton button15;
-    private JButton button16;
-    private JButton button7;
-    private JButton button17;
+    private JButton a9Button;
+    private JButton a7Button;
+    private JButton a8Button;
+    private JButton a5Button;
+    private JButton a6Button;
+    private JButton a4Button;
+    private JButton a1Button;
+    private JButton a2Button;
+    private JButton a3Button;
+    private JButton OFButton;
+    private JButton DELButton;
     private JButton button18;
+
+    private void createUIComponents() {
+        // TODO: place custom component creation code here
+    }
 }
