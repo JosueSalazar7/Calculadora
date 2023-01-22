@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85708cfd-4417-485d-98e8-4d69aabd6f17" name="Changes" comment="">
+    <list default="true" id="85708cfd-4417-485d-98e8-4d69aabd6f17" name="Changes" comment="Nuevo">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/VentanaCalculadora.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/VentanaCalculadora.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/VentanaCalculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VentanaCalculadora.java" afterDir="false" />
@@ -46,6 +47,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674172700237</updated>
     </task>
+    <task id="LOCAL-00001" summary="Nuevo">
+      <created>1674184984172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674184984188</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -58,5 +67,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Nuevo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nuevo" />
   </component>
 </project>
