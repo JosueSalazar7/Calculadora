@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85708cfd-4417-485d-98e8-4d69aabd6f17" name="Changes" comment="Nuevo">
+    <list default="true" id="85708cfd-4417-485d-98e8-4d69aabd6f17" name="Changes" comment="diseño">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/VentanaCalculadora.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/VentanaCalculadora.form" afterDir="false" />
