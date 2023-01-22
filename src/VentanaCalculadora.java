@@ -26,7 +26,7 @@ public class VentanaCalculadora {
     private JButton button1;
     private JButton ACButton;
     private JButton button3;
-    private JLabel Pantalla;
+    private JTextPane Pantalla;
     private JButton Suma;
     private JButton Multiplcar;
 
